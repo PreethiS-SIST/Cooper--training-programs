@@ -1,0 +1,8 @@
+n=input ()
+
+s=input()
+x=s.replace('b',"")
+if n==x:
+    print ("true")
+else:
+    print ("false")
